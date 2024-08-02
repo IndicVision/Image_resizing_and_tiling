@@ -1,6 +1,6 @@
 #Demo
 
-'''
+```
 usage: Image_resizing_tiling.py [-h] [--warp] [--angle_range ANGLE_RANGE] [--tile] [--tile_size TILE_SIZE]
                                 input_folder output_folder factors [factors ...]
 
@@ -19,4 +19,5 @@ optional arguments:
   --tile                If given, warped images will be tiled
   --tile_size TILE_SIZE
                         Size of each tile (default: 256)
-'''
+
+```
